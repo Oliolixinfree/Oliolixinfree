@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### Technologies that I use
+#### Frontend 
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,tailwind,html,css,vite,pinia,htmx)](https://skillicons.dev)
+#### Backend & Desktop 
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,py,electron,tauri)](https://skillicons.dev)
+#### Databases & Tools 
+[![My Skills](https://skillicons.dev/icons?i=postgres,prisma,postman,git)](https://skillicons.dev)
+#### CI/CD & DevOps 
+[![My Skills](https://skillicons.dev/icons?i=docker,linux)](https://skillicons.dev)
 <!--
 **Oliolixinfree/Oliolixinfree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
