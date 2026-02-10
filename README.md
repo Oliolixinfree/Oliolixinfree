@@ -2,13 +2,13 @@
 
 ### Technologies that I use
 #### Frontend 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,tailwind,html,css,vite,pinia,htmx)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vue,nextjs,ts,js,tailwind,html,css,vite,pinia,htmx&titles=true)
 #### Backend & Desktop 
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,py,electron,tauri)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=express,nodejs,py,aiogram,electron,tauri&titles=true)
 #### Databases & Tools 
-[![My Skills](https://skillicons.dev/icons?i=postgres,prisma,postman,git)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,prisma,postman,git&titles=true)
 #### CI/CD & DevOps 
-[![My Skills](https://skillicons.dev/icons?i=docker,linux)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,linux&titles=true)
 <!--
 **Oliolixinfree/Oliolixinfree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
