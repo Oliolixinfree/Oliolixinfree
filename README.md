@@ -6,7 +6,7 @@
 #### Backend & Desktop 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=express,nodejs,py,aiogram,electron,tauri&titles=true)
 #### Databases & Tools 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,prisma,postman,git&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,prisma,postman,git,figma&titles=true)
 #### CI/CD & DevOps 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,linux&titles=true)
 <!--
