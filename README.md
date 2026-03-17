@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Technologies that I use
+### My stack
 #### Frontend 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vue,nextjs,ts,js,tailwind,html,css,vite,pinia,htmx&titles=true)
 #### Backend & Desktop 
