@@ -2,7 +2,7 @@
 
 ### My stack
 #### Frontend 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vue,nextjs,ts,js,tailwind,html,css,vite,pinia,htmx&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vue,nextjs,ts,js,tailwind,html,css,vite,pinia,astro&titles=true)
 #### Backend & Desktop 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=express,nodejs,py,aiogram,electron,tauri&titles=true)
 #### Databases & Tools 
