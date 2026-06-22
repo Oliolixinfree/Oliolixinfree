@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am a frontend software engineer with a full-stack focus.
 
 ### My stack
 #### Core
