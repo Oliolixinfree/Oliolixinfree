@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 ### My stack
-#### Frontend 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vue,nextjs,ts,js,tailwind,html,css,vite,pinia,astro&titles=true)
-#### Databases & Tools 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,prisma,postman,git,figma&titles=true)
-#### CI/CD & DevOps 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,linux&titles=true)
+#### Core
+![icons](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,html,css,tailwindcss,radix)
+#### Frameworks & Libraries
+![icons](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vuejs,astro,nodejs,reactrouter,reactquery,zustand,pinia,tanstack,betterauth,authjs)
+#### Tools & Infrastructure
+![icons](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,vite,prisma,postgresql,linux,postman,figma&titles=true)
 <!--
 **Oliolixinfree/Oliolixinfree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
