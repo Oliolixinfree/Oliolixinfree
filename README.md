@@ -1,5 +1,5 @@
 ## Hi there 👋 
-## I am a frontend software engineer with a full-stack focus.
+## I am a frontend engineer with a full-stack focus.
 
 ### My stack
 #### Core
